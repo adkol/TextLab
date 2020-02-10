@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quizz App</string>
+    <string name="hardcodestring">coolValue</string>
+    <string name="click_button">Submit</string>
+    <string name="compliment_button">Give Praneeth a compliment</string>
+    <string name="textBox">Enter your name</string>
+    <string name="color_hint">Type your favorite thing</string>
+    <string-array name="sarr"><item>"Praneeth is intelligent"</item>
+        <item>"Praneeth is fabulous"</item>
+        <item>"Praneeth is exceptional"</item>
+        <item>"Praneeth is benevolent"</item>
+
+
+    </string-array>
+</resources>
